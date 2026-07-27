@@ -1,4 +1,4 @@
-# GeneAnalyserX v1.0
+# GeneAnalyserX BETA
 
 GeneAnalyserX is a software tool for analyzing local segments of human DNA. It compares a patient's sequence for a single gene against a reference from NCBI, detects point mutations, cross-references them against the ClinVar database, and reports the genetic diseases associated with each match.
 
