@@ -93,4 +93,4 @@ _Note: if errors or crashes occur, the full session history is saved to `logs.lo
 
 ### Authors
 
-**Metsler Albert** - *Developer*, 2026
+**Loggys (TUM)** - *Developer*, 2026
